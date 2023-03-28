@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="69d34a75-8fbe-4d33-a9bb-87d0f8e36424" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Logic/EmergencyPepole.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Logic/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Logic/Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Logic/Tecnologic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Logic/preuser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Logic/technologyPreference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/dbs/HelloApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/dbs/HelloResource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/entity/AcknowledgmentEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/entity/AcknowledgmentEntityPK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/entity/DeliveryConfirmationEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/entity/DeliveryConfirmationEntityPK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/entity/EmergenciesPepoleEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/entity/MessageEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/entity/MessageTechnolgiesEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/entity/TechnologyPreferenceEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/beans.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2NHdC20QPQ18aqKJsxWba1Q2afe" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;JPA.DatabaseSchemaImportDialog&quot;: &quot;481a74e8-5ea9-4532-a2b8-32e6c80fa18a&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_directory_selection&quot;: &quot;C:/Users/ariel/IdeaProjects/DBS/src/main/java&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;postgresql&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="ImportMappingsDialog.RecentPackages">
+      <recent name="entity" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="69d34a75-8fbe-4d33-a9bb-87d0f8e36424" name="Changes" comment="" />
+      <created>1679324811589</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1679324811589</updated>
+      <workItem from="1679324812702" duration="2391000" />
+      <workItem from="1679413010768" duration="1761000" />
+      <workItem from="1679487884372" duration="3297000" />
+      <workItem from="1679765507074" duration="4601000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
